@@ -9,7 +9,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "sweetalert2": "11.6.13"
+    "sweetalert2": "8.19.0"
   },
   "peerDependencies": {
     "vue": "2.x"
